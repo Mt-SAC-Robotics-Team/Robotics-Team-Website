@@ -2,3 +2,7 @@ body {
     background-color: #333;
     color: #fff;
 }
+
+#home-carousel {
+    height: 10px;
+}
